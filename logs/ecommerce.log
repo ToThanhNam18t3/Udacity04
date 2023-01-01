@@ -1,0 +1,58 @@
+2022-12-30 01:47:11,192 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on Tos-MacBook-Air.local with PID 27453 (/Users/tothanhnam/dev/UDACITY/udacity-java/project04/starter_code/target/classes started by tothanhnam in /Users/tothanhnam/dev/UDACITY/udacity-java/project04/starter_code)
+2022-12-30 01:47:11,202 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-12-30 01:47:11,208 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-12-30 01:47:14,412 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-12-30 01:47:14,999 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 4.278 seconds (JVM running for 5.618)
+2022-12-30 01:47:15,001 INFO c.e.d.SareetaApplication [main] ECommerce Application Started
+2022-12-30 10:13:52,193 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on Tos-MacBook-Air.local with PID 30333 (/Users/tothanhnam/dev/UDACITY/udacity-java/project04/starter_code/target/classes started by tothanhnam in /Users/tothanhnam/dev/UDACITY/udacity-java/project04/starter_code)
+2022-12-30 10:13:52,201 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-12-30 10:13:52,203 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-12-30 10:13:55,732 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-12-30 10:13:56,288 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 4.487 seconds (JVM running for 5.774)
+2022-12-30 10:13:56,290 INFO c.e.d.SareetaApplication [main] ECommerce Application Started
+2023-01-01 22:40:22,550 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on Tos-MacBook-Air.local with PID 1891 (/Users/tothanhnam/dev/UDACITY/udacity-java/project04/starter_code/target/classes started by tothanhnam in /Users/tothanhnam/dev/UDACITY/udacity-java/project04/starter_code)
+2023-01-01 22:40:22,555 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-01-01 22:40:22,559 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-01-01 22:40:25,949 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2023-01-01 22:40:26,567 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 4.539 seconds (JVM running for 6.786)
+2023-01-01 22:40:26,569 INFO c.e.d.SareetaApplication [main] ECommerce Application Started
+2023-01-01 22:40:48,513 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests on Tos-MacBook-Air.local with PID 1960 (started by tothanhnam in /Users/tothanhnam/dev/UDACITY/udacity-java/project04/starter_code)
+2023-01-01 22:40:48,523 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-01-01 22:40:48,527 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
+2023-01-01 22:40:56,602 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 8.466 seconds (JVM running for 10.606)
+2023-01-01 22:41:03,023 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests on Tos-MacBook-Air.local with PID 2007 (started by tothanhnam in /Users/tothanhnam/dev/UDACITY/udacity-java/project04/starter_code)
+2023-01-01 22:41:03,030 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-01-01 22:41:03,033 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
+2023-01-01 22:41:10,038 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 7.412 seconds (JVM running for 9.492)
+2023-01-01 22:41:10,519 INFO c.e.d.c.UserController [main] Create user request
+2023-01-01 22:41:10,522 ERROR c.e.d.c.UserController [main] Create user request failures
+2023-01-01 22:41:10,554 INFO c.e.d.c.UserController [main] Create user request
+2023-01-01 22:41:10,554 ERROR c.e.d.c.UserController [main] Create user request failures
+2023-01-01 22:41:10,559 INFO c.e.d.c.UserController [main] Create user request
+2023-01-01 22:41:10,560 ERROR c.e.d.c.UserController [main] Create user request failures
+2023-01-01 22:41:10,863 INFO c.e.d.c.OrderController [main] Submit order by username
+2023-01-01 22:41:10,864 INFO c.e.d.c.OrderController [main] Submit order successfully
+2023-01-01 22:41:10,867 INFO c.e.d.c.OrderController [main] Get orders by username
+2023-01-01 22:41:10,868 INFO c.e.d.c.OrderController [main] Get orders successfully
+2023-01-01 22:41:10,870 INFO c.e.d.c.OrderController [main] Submit order by username
+2023-01-01 22:41:10,871 ERROR c.e.d.c.OrderController [main] Not found any user has username [hi]
+2023-01-01 22:41:10,873 INFO c.e.d.c.OrderController [main] Get orders by username
+2023-01-01 22:41:10,874 ERROR c.e.d.c.OrderController [main] Not found any user has username [hi]
+2023-01-01 22:41:54,470 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests on Tos-MacBook-Air.local with PID 2096 (started by tothanhnam in /Users/tothanhnam/dev/UDACITY/udacity-java/project04/starter_code)
+2023-01-01 22:41:54,477 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-01-01 22:41:54,480 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
+2023-01-01 22:42:00,895 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 6.813 seconds (JVM running for 9.517)
+2023-01-01 22:42:01,544 INFO c.e.d.c.UserController [main] Create user request
+2023-01-01 22:42:01,550 INFO c.e.d.c.UserController [main] Create user request successes
+2023-01-01 22:42:01,574 INFO c.e.d.c.UserController [main] Create user request
+2023-01-01 22:42:01,574 ERROR c.e.d.c.UserController [main] Create user request failures
+2023-01-01 22:42:01,581 INFO c.e.d.c.UserController [main] Create user request
+2023-01-01 22:42:01,581 ERROR c.e.d.c.UserController [main] Create user request failures
+2023-01-01 22:42:01,792 INFO c.e.d.c.OrderController [main] Submit order by username
+2023-01-01 22:42:01,792 INFO c.e.d.c.OrderController [main] Submit order successfully
+2023-01-01 22:42:01,795 INFO c.e.d.c.OrderController [main] Get orders by username
+2023-01-01 22:42:01,796 INFO c.e.d.c.OrderController [main] Get orders successfully
+2023-01-01 22:42:01,797 INFO c.e.d.c.OrderController [main] Submit order by username
+2023-01-01 22:42:01,798 ERROR c.e.d.c.OrderController [main] Not found any user has username [hi]
+2023-01-01 22:42:01,799 INFO c.e.d.c.OrderController [main] Get orders by username
+2023-01-01 22:42:01,800 ERROR c.e.d.c.OrderController [main] Not found any user has username [hi]
