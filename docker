@@ -1,4 +1,4 @@
 FROM openJdk:8
 EXPOSE 8080
 ADD target/starter_code.jar starter_code.jar
-ENTRYPOINT ["java","-jar","starter_code.jar"]
+ENTRYPOINT ["java","-jar","/starter_code.jar"]
